@@ -1,2 +1,2 @@
 # escalonamento-matrizes
-Um programa simples que eu criei para facilitar o escalonamento de matrizes usando frações
+Um programa simples para facilitar o escalonamento de matrizes usando frações
